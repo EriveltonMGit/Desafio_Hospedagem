@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\bin\Debug\net8.0\reserva_hotel.exe
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\bin\Debug\net8.0\reserva_hotel.deps.json
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\bin\Debug\net8.0\reserva_hotel.runtimeconfig.json
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\bin\Debug\net8.0\reserva_hotel.dll
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\bin\Debug\net8.0\reserva_hotel.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.dll
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\refint\reserva_hotel.dll
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\reserva_hotel.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Área de Trabalho\reserva_hotel\obj\Debug\net8.0\ref\reserva_hotel.dll
